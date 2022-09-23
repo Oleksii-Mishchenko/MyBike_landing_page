@@ -1,4 +1,5 @@
 This project implements a typical bike shop landing page.
+
 The following technologies have been used in this project:
   - Grid and Flexbox;
   - Media Queries;
